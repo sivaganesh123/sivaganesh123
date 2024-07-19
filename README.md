@@ -8,7 +8,14 @@ Trying to create few animes using blender and krita. Please provide your comment
 
 Some of my art Works
 
-![Sita1 2](https://github.com/user-attachments/assets/9c653269-bf06-461d-be2d-d1850861b97a)
+![Robot](https://github.com/sivaganesh123/sivaganesh123/blob/master/SpiderRobot.png)
+
+![Woman](https://github.com/sivaganesh123/sivaganesh123/blob/master/girl.png)
+
+![SitaRam](https://github.com/sivaganesh123/sivaganesh123/blob/master/Sita.png)
+
+![SitaRam](https://github.com/sivaganesh123/sivaganesh123/blob/master/SitaHelp.png)
+
 
 
 
