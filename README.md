@@ -1,16 +1,13 @@
-## Hi there 👋
+![Sita1 2](https://github.com/user-attachments/assets/9c653269-bf06-461d-be2d-d1850861b97a)# Anime Series
 
-<!--
-**sivaganesh123/sivaganesh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trying to create few animes using blender and krita. Please provide your comments. Anyone having any ideas/suggestions or wanted to support, by providing characters, are highly appreciated
 
-Here are some ideas to get you started:
+*This is my instagram* @Scornlife
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*This is my Art Station Link* 
+
+Some of my art Works
+
+
+
+
