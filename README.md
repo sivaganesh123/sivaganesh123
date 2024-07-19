@@ -16,13 +16,13 @@ https://u034bf55a.artstation.com/
 Some of my art Works
 --
 
-![Woman](https://github.com/sivaganesh123/sivaganesh123/blob/master/girl.png)
+![Char](https://github.com/sivaganesh123/sivaganesh123/blob/master/genchuriki-chark.jpg)
 
-![Robot](https://github.com/sivaganesh123/sivaganesh123/blob/master/SpiderRobot.png)
+![Woman](https://github.com/sivaganesh123/sivaganesh123/blob/master/girl.png)
 
 ![SitaRam](https://github.com/sivaganesh123/sivaganesh123/blob/master/Sita.png)
 
-![SitaRam](https://github.com/sivaganesh123/sivaganesh123/blob/master/SitaHelp.png)
+![Char1](https://github.com/sivaganesh123/sivaganesh123/blob/master/siva-ganesh-sidek.jpg)
 
 
 
